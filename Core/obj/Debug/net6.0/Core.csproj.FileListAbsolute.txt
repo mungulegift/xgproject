@@ -1,0 +1,12 @@
+C:\Users\Gift\Documents\GitHub\xgproject\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Gift\Documents\GitHub\xgproject\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Gift\Documents\GitHub\xgproject\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Gift\Documents\GitHub\xgproject\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Gift\Documents\GitHub\xgproject\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gift\Documents\GitHub\xgproject\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Gift\Documents\GitHub\xgproject\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Gift\Documents\GitHub\xgproject\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Gift\Documents\GitHub\xgproject\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Gift\Documents\GitHub\xgproject\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Gift\Documents\GitHub\xgproject\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Gift\Documents\GitHub\xgproject\Core\obj\Debug\net6.0\ref\Core.dll
