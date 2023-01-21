@@ -14,11 +14,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Core\Core.csproj" />
+    <Folder Include="Views\Login\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Login\" />
+    <ProjectReference Include="..\Core\Core.csproj" />
   </ItemGroup>
 
 </Project>
